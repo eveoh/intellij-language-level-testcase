@@ -1,7 +1,7 @@
 IntelliJ Language Level Testcase
 ================================
 
-Testcase for IntelliJ Language Level
+Testcase for IntelliJ Language Level bug: http://youtrack.jetbrains.com/issue/IDEA-127727
 
 The module 'seven' uses language level 7.0 (JDK 1.7). The module 'eight' uses language level 8.0 (JDK 1.8) and depends on module 'seven'.
 
